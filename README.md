@@ -14,6 +14,7 @@ This space is where I learn, share, and grow as a developer.
 ---
 
 ### 🛠️ Focus
+on Full-Stack Trainee
 Currently building small apps, sharpening **JavaScript & React** skills,  
 and documenting my **tech journey** through cool side projects.  
 
@@ -22,4 +23,4 @@ and documenting my **tech journey** through cool side projects.
 ### 📌 Connect With Me  
 https://www.linkedin.com/in/rahel-getachew-97a0ba354/
 ---
-⭐️ *Pinned repo idea*: Use this account for **side projects** and creative builds (mini-games, design challenges, or coding practice)!
+
