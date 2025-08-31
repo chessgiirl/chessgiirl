@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Rahel a.k.a. Chessgiirl ♟️
 
-<!--
-**chessgiirl/chessgiirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **creative coding corner**!  
+Here I experiment with **design,  projects, and new tech stacks**.  
+This space is where I learn, share, and grow as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 skills  
+- 🎨 Graphic Design & Aesthetic Lover  
+- 📚 Lifelong Learner exploring **front-end & back-end dev**  
+- ♟️ Huge fan of strategy games & puzzles  
+
+---
+
+### 🛠️ Focus
+Currently building small apps, sharpening **JavaScript & React** skills,  
+and documenting my **tech journey** through cool side projects.  
+
+---
+
+### 📌 Connect With Me  
+https://www.linkedin.com/in/rahel-getachew-97a0ba354/
+---
+⭐️ *Pinned repo idea*: Use this account for **side projects** and creative builds (mini-games, design challenges, or coding practice)!
